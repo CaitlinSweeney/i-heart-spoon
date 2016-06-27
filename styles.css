@@ -1,0 +1,24 @@
+body{
+    max-width: 1200px;
+    background-color: #ff66cd3;
+    
+}
+
+#mainContent{
+    background-color: (44, 7, 19);
+    font-family: "helvetica";
+    font-size: 24px;
+    clear: both;
+}
+#mainContent > p{
+    background-image: url(
+    color: #fff;
+}
+.welcome{
+    color: rebeccapurple;
+}
+
+#navbar {
+    clear: both;
+    background-color: rgb(66, 134, 174);
+}
